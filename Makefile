@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 6
 PATCHLEVEL = 6
-SUBLEVEL = 139
-EXTRAVERSION = -EVONIX-COS-V3.0
-NAME = EVONIX
+SUBLEVEL = 142
+EXTRAVERSION =
+NAME = Pinguïn Aangedreven
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
