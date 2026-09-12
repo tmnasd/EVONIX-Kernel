@@ -5,6 +5,12 @@ SUBLEVEL = 142
 EXTRAVERSION =
 NAME = Pinguïn Aangedreven
 
+# EVONIX build identity
+# Override Kleaf's generic build-user/build-host identity.
+override KBUILD_BUILD_USER := Neeschal
+override KBUILD_BUILD_HOST := code
+export KBUILD_BUILD_USER KBUILD_BUILD_HOST
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
