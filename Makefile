@@ -2,8 +2,8 @@
 VERSION = 6
 PATCHLEVEL = 6
 SUBLEVEL = 142
-EXTRAVERSION =
-NAME = Pinguïn Aangedreven
+EXTRAVERSION = -EVONIX-HOS-V3.5
+NAME = EVONIX
 
 # EVONIX build identity
 # Override Kleaf's generic build-user/build-host identity.
